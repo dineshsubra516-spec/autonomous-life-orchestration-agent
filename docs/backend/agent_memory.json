@@ -1,0 +1,1027 @@
+{
+  "preferences": {
+    "food_budget": 120,
+    "max_food_eta": 25,
+    "travel_preference": "fastest"
+  },
+  "history": [
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    },
+    {
+      "execution": {
+        "food_ordered": "Idli + Banana",
+        "travel_booked": "Bike Taxi"
+      },
+      "confidence": 1.0
+    }
+  ],
+  "execution_history": [
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1091,
+      "timestamp": "2026-02-18T08:55:36.072665"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1090,
+      "timestamp": "2026-02-18T08:56:03.320540"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1089,
+      "timestamp": "2026-02-18T08:57:10.351401"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1089,
+      "timestamp": "2026-02-18T08:57:15.197188"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1109,
+      "timestamp": "2026-02-18T08:57:35.158262"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1109,
+      "timestamp": "2026-02-18T08:57:51.065136"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1109,
+      "timestamp": "2026-02-18T08:57:57.975743"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 748,
+      "timestamp": "2026-02-18T08:58:12.635306"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 28,
+      "timestamp": "2026-02-18T08:58:25.838443"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 0.65,
+      "buffer": 0,
+      "timestamp": "2026-02-18T08:58:40.835827"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1088,
+      "timestamp": "2026-02-18T08:58:55.609880"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1087,
+      "timestamp": "2026-02-18T08:59:04.378527"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1085,
+      "timestamp": "2026-02-18T09:01:41.021988"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1085,
+      "timestamp": "2026-02-18T09:01:41.032194"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1085,
+      "timestamp": "2026-02-18T09:01:41.038398"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1085,
+      "timestamp": "2026-02-18T09:01:41.046102"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1085,
+      "timestamp": "2026-02-18T09:01:41.058220"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1085,
+      "timestamp": "2026-02-18T09:01:41.072621"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1055,
+      "timestamp": "2026-02-18T09:01:41.088836"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1145,
+      "timestamp": "2026-02-18T09:01:41.107928"
+    },
+    {
+      "food": {
+        "restaurant": "Sangeetha Veg",
+        "item": "Idli + Dosa Combo",
+        "price": 120.0,
+        "eta_minutes": 15,
+        "eta_variance": 3.0,
+        "rating": 4.5,
+        "service": "Swiggy"
+      },
+      "travel": {
+        "service": "Ola",
+        "mode": "Ride",
+        "cost": 95.0,
+        "eta_minutes": 8,
+        "eta_variance": 2.0,
+        "rating": 4.6
+      },
+      "confidence": 1.0,
+      "buffer": 1084,
+      "timestamp": "2026-02-18T09:02:56.742334"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "Sangeetha Veg Restaurant",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T09:50:07.785030"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "Sangeetha Veg Restaurant",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T09:50:08.852587"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "Sangeetha Veg Restaurant",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T09:50:48.938777"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "Saravana Bhavan",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T09:51:12.912797"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "Sangeetha Veg Restaurant",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T14:14:07.555166"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "MTR (Madras Tiffin Restaurant)",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T14:15:04.372056"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "Sangeetha Veg Restaurant",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T14:15:10.729264"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "Sangeetha Veg Restaurant",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T14:15:10.733958"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "MTR (Madras Tiffin Restaurant)",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T14:36:35.563659"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "Madras Christian College",
+      "food": "Sangeetha Veg Restaurant",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T14:58:06.347831"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "Sangeetha Veg Restaurant",
+      "travel": "Uber",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T15:01:11.614628"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "MTR (Madras Tiffin Restaurant)",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T15:01:25.567267"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "MTR (Madras Tiffin Restaurant)",
+      "travel": "Uber",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T15:08:18.800959"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "MTR (Madras Tiffin Restaurant)",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T15:08:43.868910"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "MTR (Madras Tiffin Restaurant)",
+      "travel": "Uber",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T15:13:38.829644"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "Kaldan Continental",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T15:27:47.885388"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "Saravana Bhavan",
+      "travel": "Ola",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T15:35:09.288342"
+    },
+    {
+      "date": "2026-02-18",
+      "destination": "IIT Madras",
+      "food": "MTR (Madras Tiffin Restaurant)",
+      "travel": "Uber",
+      "confidence": 1.0,
+      "status": "booked",
+      "timestamp": "2026-02-18T15:40:36.301607"
+    }
+  ]
+}

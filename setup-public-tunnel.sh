@@ -1,0 +1,55 @@
+#!/bin/bash
+# Quick tunnel setup for Day Planner public access
+# No authentication required!
+
+echo "╔════════════════════════════════════════════════════╗"
+echo "║  Day Planner - Public Tunnel Setup                ║"
+echo "║  Anyone can access via the shared link!           ║"
+echo "╚════════════════════════════════════════════════════╝"
+echo ""
+
+# Check if server is running
+if ! nc -z 127.0.0.1 8000 2>/dev/null; then
+    echo "❌ Day Planner server is NOT running on port 8000"
+    echo ""
+    echo "Start the server first:"
+    echo "  cd docs/backend && source venv/bin/activate"
+    echo "  uvicorn app.main:app --host 0.0.0.0 --port 8000"
+    exit 1
+fi
+
+echo "✅ Day Planner is running on http://127.0.0.1:8000"
+echo ""
+echo "╔════════════════════════════════════════════════════╗"
+echo "║  Choose Tunnel Method:                             ║"
+echo "╚════════════════════════════════════════════════════╝"
+echo ""
+echo "Option 1: localhost.run (Simple, no auth)"
+echo "─────────────────────────────────────────"
+echo "Run this in another terminal:"
+echo ""
+echo "  ssh -R 80:127.0.0.1:8000 localhost.run"
+echo ""
+echo "Then visit the URL provided (e.g., https://abc123.localhost.run)"
+echo ""
+echo "───────────────────────────────────────────────────────────────"
+echo ""
+echo "Option 2: Railway.app (Recommended for persistence)"
+echo "─────────────────────────────────────────────────"
+echo "1. Go to https://railway.app"
+echo "2. Sign up with GitHub"
+echo "3. Deploy from GitHub repository"
+echo "4. Your app will be live in 2-3 minutes!"
+echo ""
+echo "───────────────────────────────────────────────────────────────"
+echo ""
+echo "Option 3: Use expose.sh (Alternative tunnel)"
+echo "─────────────────────────────────────────"
+echo "  # Install and run:"
+echo "  curl -s https://expose.sh/install.sh | bash"
+echo "  expose 8000"
+echo ""
+echo "───────────────────────────────────────────────────────────────"
+echo ""
+echo "💡 Tip: Use Option 1 (localhost.run) for quick testing!"
+echo ""

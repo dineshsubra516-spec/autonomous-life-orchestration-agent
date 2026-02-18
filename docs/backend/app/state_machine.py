@@ -1,9 +1,10 @@
-from enum import Enum
+from enum import Enum, auto
+
 
 class AgentState(Enum):
-    SLEEPING = "sleeping"
-    PLANNING = "planning"
-    RISK_EVALUATION = "risk_evaluation"
-    WAITING_FOR_OVERRIDE = "waiting_for_override"
-    EXECUTING = "executing"
-    COMPLETED = "completed"
+    SLEEPING = auto()
+    PLANNING = auto()
+    RISK_EVALUATION = auto()
+    WAITING_FOR_OVERRIDE = auto()
+    EXECUTING = auto()
+    COMPLETED = auto()

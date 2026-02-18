@@ -1,7 +1,10 @@
-def get_food_options():
+def get_food_option():
+    """
+    Mocked food service response.
+    """
     return {
-        "item": "Light breakfast",
+        "item": "Idli + Banana",
         "eta_minutes": 18,
-        "eta_variance": 5,
+        "eta_variance": 4,
         "cost": 80
     }

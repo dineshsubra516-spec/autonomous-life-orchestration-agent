@@ -1,1 +1,4 @@
+"""
+Agent responsible for <ROLE>.
+"""
 

@@ -1,5 +1,4 @@
-print("Wake-up event triggered")
-print("Planning morning activities...")
-print("Evaluating risk...")
-print("Confidence high. Executing actions.")
-print("Morning orchestration complete.")
+import requests
+
+response = requests.get("http://127.0.0.1:8000/run")
+print(response.json())
